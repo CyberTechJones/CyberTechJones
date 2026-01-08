@@ -15,7 +15,8 @@
 
 <a href="https://www.linkedin.com/in/mark-jones-6a9a982a7">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>
-</a>
+</a> [📫](mailto:itsjones12@gmail.com)
+
 
 
 <!--
