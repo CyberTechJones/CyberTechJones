@@ -9,7 +9,7 @@
  
 <h2>Certifications</h2>
 
-📄 [Security+ Certificate](CompTIASecurity+cecertificate.pdf) 
+📄 [Security+ Certificate](https://github.com/CyberTechJones/CyberTechJones/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf) 
 
 <h2> 🤳 Connect with me:</h2>
 
