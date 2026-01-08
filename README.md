@@ -9,7 +9,8 @@
  
 <h2>📜 Certifications</h2>
 
-📄 [Security+ Certificate](https://github.com/CyberTechJones/CyberTechJones/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf) 
+- 📄 [Security+ Certificate](https://github.com/CyberTechJones/CyberTechJones/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf) 
+- 📄 [Google Cybersecurity Certificate](https://github.com/CyberTechJones/CyberTechJones/blob/main/google%20cybersecurity%20.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
