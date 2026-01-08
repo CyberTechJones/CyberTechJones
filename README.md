@@ -9,6 +9,8 @@
  
 <h2>Certifications</h2>
 
+📄 [Security+ Certificate](./certs/security_plus.pdf)
+
 
 <h2> 🤳 Connect with me:</h2>
 
