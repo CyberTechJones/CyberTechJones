@@ -15,9 +15,7 @@
 
 <a href="https://www.linkedin.com/in/mark-jones-6a9a982a7">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/>
-</a> [📫](mailto:itsjones12@gmail.com)
-
-
+</a> <a href="mailto:itsjones12@gmail.com" style="font-size: 40px;">📫</a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
