@@ -6,7 +6,7 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [Secure Workstation Hardening Lab](https://github.com/CyberTechJones/CyberTechJones/blob/main/Secure%20Workstation%20Hardening%20Lab)
+  - [Secure Workstation Hardening Lab](https://github.com/CyberTechJones/Secure-Personal-Workstation-Lab/commit/0d15bc73379f5c80ec1c8319253154ab99deddb2)
  
 <h2>📜 Certifications</h2>
 
