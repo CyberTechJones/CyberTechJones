@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [An isolated three-VM Security Operations Center lab for endpoint monitoring, controlled detection testing, Wazuh alert investigation, and MITRE ATT&CK analysis.](https://github.com/CyberTechJones/wazuh-home-soc-lab)
  
 <h2>📜 Certifications</h2>
 
