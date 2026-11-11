@@ -1,4 +1,16 @@
-<h1>Hi, I'm Mark! 
+# Hi, I'm Mark Jones! 
+
+Aspiring SOC Analyst and Cybersecurity Professional with CompTIA Security+ certification and hands-on experience building and operating a home Security Operations Center (SOC) lab.
+
+Technical focus areas:
+- Security Operations (SOC)
+- SIEM Monitoring and Alert Investigation
+- Windows Security
+- Active Directory
+- Endpoint Detection
+- Threat Detection and MITRE ATT&CK Mapping
+
+Currently developing practical blue team skills through enterprise-style lab environments, attack simulations, and incident investigations.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
